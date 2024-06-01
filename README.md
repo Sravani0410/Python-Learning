@@ -1,3 +1,6 @@
+## Definition:
+  Python is a scripting language with a wide range of data types and conditions.
+
 ## comments
  1. single line comment(#)
  2. multi line comment('''  write the comments here ''')
@@ -15,3 +18,19 @@
       1. don't start with digits or symbols--> 123a , @abc
       2. starting letter should be alphabets and underscore --> abc , abc12 , _abc
       3.case sensitive --> if small letter we have to call the small letter or vise versa
+
+## Datatypes:
+     def: type of a value
+
+    Types of Datatypes:
+     Int ---> a=1,a=-1
+     float  ---> b=2.33
+     Boolean ---> 0 (false) and 1 (true)
+     string ----> text ---> 'python'
+     Complex ----> 1+3j
+      List  ---> [ ]
+      Tuple  ---> ( )
+      set  ---> { }
+      Dictionary ---> { }
+      Frozenset ---> 
+      None
